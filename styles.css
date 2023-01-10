@@ -1,2 +1,10 @@
-
-/* Your CSS Code here. */
+main{
+	width:150px;
+	height:150px;
+	blackground-color:black;
+}
+p{
+	padding:10px;
+	margin-left:32px;
+	color:white;
+}
