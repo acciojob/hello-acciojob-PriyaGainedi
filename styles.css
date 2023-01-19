@@ -1,10 +1,10 @@
 main{
-	width:150px;
+	widhth:150px;
 	height:150px;
-	blackground-color:black;
+	background-color:black;
 }
 p{
+	margin-left:32px;
 	padding:10px;
-	margin-left:32%;
 	color:white;
 }
