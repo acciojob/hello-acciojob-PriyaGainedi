@@ -4,7 +4,8 @@ main{
 	background-color:black;
 }
 p.hello-accio-job{
-	text-decoration-color:white;
+	/*text-decoration-color:white;*/
+	color:#ffffff;
 	margin-left:32px;
 	padding:10px;
 }
