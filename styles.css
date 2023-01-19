@@ -3,8 +3,7 @@ main{
 	height:150px;
 	background-color:black;
 }
-main.Accio,p.hello-accio-job{
-	/*text-decoration-color:white;*/
+#Job.Accio, p.hello-accio-job{
 	color:#ffffff;
 	margin-left:32px;
 	padding:10px;
