@@ -3,7 +3,7 @@ main{
 	height:150px;
 	background-color:black;
 }
-p.hello-accio-job{
+main.Accio,p.hello-accio-job{
 	/*text-decoration-color:white;*/
 	color:#ffffff;
 	margin-left:32px;
